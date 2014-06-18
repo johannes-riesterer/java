@@ -14,8 +14,7 @@ Installing Oracle-Java on an Ubuntu system
 
 Corresponding to your operating system, download the  file ```jdk-newest-version.tar.gz``` from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp).
  
-![Alt text](https://github.com/johannes-riesterer/java/blob/master/bd.png) 
-
+![Alt text](https://raw.githubusercontent.com/johannes-riesterer/java/master/bd.png)
 In what follows, please substitute ```jdk-newest-version``` with the appropriate filename!
  
 Create the directory /opt/jdk:
