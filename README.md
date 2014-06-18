@@ -1,5 +1,5 @@
 Installing Oracle-Java on an Ubuntu system
-  ===========
+===========
  
  
  Open a terminal and check what kind of operating system you are running.
@@ -11,7 +11,8 @@ Installing Oracle-Java on an Ubuntu system
 - x86_64: 64 bit kernel
 - i686: 32 bit kernel
  
- Corresponding to your operating system, download the  file ```jdk-newest-version.tar.gz``` from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp).
+
+Corresponding to your operating system, download the  file ```jdk-newest-version.tar.gz``` from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp).
  
 In what follows, please substitute ```jdk-newest-version``` with the appropriate filename!
  
