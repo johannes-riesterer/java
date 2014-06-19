@@ -21,7 +21,7 @@ Create the directory /opt/jdk. Therefore Type in the command
 ```bash
 sudo  mkdir /opt/jdk
 ```
-and enter your passwort as asked for.
+and enter your password as asked for.
 
 Extract the downloaded file jdk-newest-version.tar.gz to the created folder /opt/jdk:
 
