@@ -2,9 +2,9 @@ Installing Oracle-Java on an Ubuntu system
 ===========
  
  
- Open a terminal and check what kind of operating system you are running.
+ Open a terminal and check what kind of operating system you are running. Type in
  ```bash
- sudo  uname -m
+ uname -m
  ```
  
  The output means:
@@ -17,11 +17,11 @@ Corresponding to your operating system, download the  file ```jdk-newest-version
 ![Alt text](https://raw.githubusercontent.com/johannes-riesterer/java/master/bd.png)
 In what follows, please substitute ```jdk-newest-version``` with the appropriate filename!
  
-Create the directory /opt/jdk:
-
+Create the directory /opt/jdk. Therefore Type in the command
 ```bash
 sudo  mkdir /opt/jdk
 ```
+and enter your passwort you Are Asket for.
 
 Extract the downloaded file jdk-newest-version.tar.gz to the created folder /opt/jdk:
 
