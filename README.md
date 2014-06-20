@@ -1,11 +1,11 @@
 ![Alt text](https://raw.githubusercontent.com/johannes-riesterer/java/master/imaginary_manuals.png)
-==============
-Installing Oracle-Java
-===========
+[(how to contribute)](https://github.com/johannes-riesterer/open_manuals/blob/master/README.md)
 
-Linux
----------------
- 
+
+#Installing Oracle-Java
+
+##Linux
+
  
  Open a terminal and check what kind of operating system you are running. Type in
  ```bash
