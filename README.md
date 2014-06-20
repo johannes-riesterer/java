@@ -3,7 +3,7 @@
 Installing Oracle-Java
 ===========
 
-Ubuntu system
+Linux
 ---------------
  
  
