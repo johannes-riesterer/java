@@ -1,3 +1,4 @@
+![Alt text](https://raw.githubusercontent.com/johannes-riesterer/java/master/coffee.jpg)
 Installing Oracle-Java on an Ubuntu system
 ===========
  
