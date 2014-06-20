@@ -1,6 +1,10 @@
 ![Alt text](https://raw.githubusercontent.com/johannes-riesterer/java/master/imaginary_manuals.png)
-Installing Oracle-Java on an Ubuntu system
+==============
+Installing Oracle-Java
 ===========
+
+Ubuntu system
+---------------
  
  
  Open a terminal and check what kind of operating system you are running. Type in
