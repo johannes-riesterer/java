@@ -1,5 +1,5 @@
 ![Alt text](https://raw.githubusercontent.com/johannes-riesterer/java/master/imaginary_manuals.png)
-#####[(how to contribute)](https://github.com/johannes-riesterer/open_manuals/blob/master/README.md)
+###[(how to contribute)](https://github.com/johannes-riesterer/open_manuals/blob/master/README.md)
 
 
 #Installing Oracle-Java
