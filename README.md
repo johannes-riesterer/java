@@ -3,7 +3,7 @@
 Installing Oracle-Java
 ===========
 
-Linux
+Ubuntu system
 ---------------
  
  
@@ -12,9 +12,9 @@ Linux
  uname -m
  ```
  
- The output means:
-- x86_64: 64 bit kernel
-- i686: 32 bit kernel
+ The output:
+- `x86_64` stands for _64 bit kernel_
+- `i686` stands for _32 bit kernel_
  
 
 Corresponding to the type of your operating system, download the  file ```jdk-newest-version.tar.gz``` from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp).
@@ -25,7 +25,7 @@ In what follows, please substitute ```jdk-newest-version``` with the appropriate
  
 Create the directory /opt/jdk. Therefore Type in the command
 ```bash
-sudo  mkdir /opt/jdk
+sudo mkdir /opt/jdk
 ```
 and enter your password as asked for.
 
@@ -55,8 +55,3 @@ Java version "1.8"
     Java(TM) SE Runtime Environment (build 1.8)
     Java HotSpot(TM) 64-Bit Server VM (build 25.5-b02, mixed mode) 
 ```
-
-Windows 
------------------------
-
-
