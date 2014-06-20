@@ -23,7 +23,7 @@ Linux x64 is for a 64 bit kernel and x86 for a 32 bit kernel.
 
 In what follows, please substitute ```jdk-newest-version``` with the appropriate filename!
  
-Create the directory /opt/jdk. Therefore Type in the command
+Create the directory /opt/jdk. Therefore type in the command
 ```bash
 sudo mkdir /opt/jdk
 ```
